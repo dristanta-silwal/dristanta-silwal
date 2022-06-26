@@ -23,7 +23,7 @@ I am from [🇳🇵](https://en.wikipedia.org/wiki/Nepal).
       alt="Dristanta Silwal's dev card"
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/5e5335e7feec40689a3920acf998971d.png?r=c22"
+      src="https://api.daily.dev/devcards/5e5335e7feec40689a3920acf998971d.png?r=7ec"
     />
   </a>
 </div>
