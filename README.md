@@ -1,9 +1,19 @@
+  <a href="https://app.daily.dev/Dristanta" target="_blank">
+    <img
+      alt="Dristanta Silwal's dev card"
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/5e5335e7feec40689a3920acf998971d.png?r=7ec"
+    />
+  </a>
+
+
 # Hey  <img alt="wave" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="30"/> ,
+
 
 I'm [Dristanta Silwal](https://dristantasilwal.com.np).
 
-I am from [🇳🇵](https://en.wikipedia.org/wiki/Nepal).
-
+I am from [Nepal](https://en.wikipedia.org/wiki/Nepal).
 <div align="left">
   <a href="https://twitter.com/DristantaSilwal">
     <img
@@ -18,14 +28,6 @@ I am from [🇳🇵](https://en.wikipedia.org/wiki/Nepal).
     />
   </a>
 
-  <a href="https://app.daily.dev/Dristanta" target="_blank">
-    <img
-      alt="Dristanta Silwal's dev card"
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/5e5335e7feec40689a3920acf998971d.png?r=7ec"
-    />
-  </a>
 </div>
 
 #
