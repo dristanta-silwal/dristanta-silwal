@@ -27,10 +27,15 @@ I am from [Nepal](https://en.wikipedia.org/wiki/Nepal).
       alt="LinkedIn"
     />
   </a>
-
 </div>
+
+#
+
+> “We need to accept that we won’t always make the right decisions, that we’ll screw up royally sometimes – understanding that failure is not the opposite of success, it’s part of success.” — Ariana Huffington
 
 #
 
 - [The learning Developer](https://dristantasilwal.com.np)
 - I love learning new things.
+
+### Checkout my blogs at [Hashnode](https://dristantasilwal.hashnode.dev/) and don't forget to follow me.
