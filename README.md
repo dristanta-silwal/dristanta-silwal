@@ -23,7 +23,7 @@ I am from [Nepal](https://en.wikipedia.org/wiki/Nepal).
   </a>
   <a href="https://www.linkedin.com/in/dristantasilwal/">
     <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=19"
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=32"
       alt="LinkedIn"
     />
   </a>
