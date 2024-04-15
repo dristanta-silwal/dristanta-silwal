@@ -17,13 +17,13 @@ I am from [Nepal](https://en.wikipedia.org/wiki/Nepal).
 <div align="left">
   <a href="https://twitter.com/DristantaSilwal">
     <img
-      src="https://img.shields.io/twitter/follow/DristantaSilwal?label=Twitter&logo=twitter&style=flat-square&color=00acee&logoColor=ffffff"
+      src="https://img.shields.io/twitter/follow/Dristanta?label=Twitter&logo=twitter&style=flat-square&color=00acee&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
   <a href="https://www.linkedin.com/in/dristantasilwal/">
     <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=663"
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=1107"
       alt="LinkedIn"
     />
   </a>
