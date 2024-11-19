@@ -1,11 +1,4 @@
-<a href="https://app.daily.dev/Dristanta" target="_blank">
-  <img
-    alt="Dristanta Silwal's dev card"
-    width="256"
-    align="right"
-    src="https://api.daily.dev/devcards/5e5335e7feec40689a3920acf998971d.png?r=7ec"
-  />
-</a>
+
 
 # Hey there <img alt="wave" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="30"/>, I'm Dristanta Silwal!
 
