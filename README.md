@@ -28,16 +28,25 @@ I'm a passionate developer and aspiring data scientist from [Nepal](https://en.w
 
 Here are some of the key projects I’ve worked on. Feel free to explore the repositories and contribute!
 
-### 1. [Personal Note-Taking App](https://github.com/dristanta-silwal/note-taking-app)  
-An intuitive, feature-rich note-taking app with support for Markdown, Apple Pencil gestures, and advanced search functionality. Built using **ReactJS** and **Django**.
+### 1. [Grant Budget Management System](https://github.com/dristanta-silwal/grant-budget-management-system)  
+The **Grant Budget Management System (GBMS)** is a web-based application designed to assist researchers, administrators, and grant managers in creating and managing grant budgets. The system streamlines the budgeting process, tracks personnel costs, and calculates direct and indirect costs efficiently.
 
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=ffffff) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) ![Status](https://img.shields.io/badge/Status-Active-green)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![Status](https://img.shields.io/badge/Status-Running-brightgreen)
+
+
 
 > 🔹 **Key Features**:  
-> - Supports Markdown syntax  
-> - Search functionality for filtering notes  
-> - Apple Pencil gesture recognition  
-> - Advanced note-saving system
+> - User Authentication: Secure login and registration system.
+> - Create and manage grant budgets.
+> - Assign roles to team members (PI, Co-PI, etc.).
+> - Calculate yearly and total costs dynamically.
+> - Integrate fringe and indirect cost calculations.
+> - Excel Export: Download grant budgets as well-formatted Excel sheets.
+> - Responsive Design: Accessible on desktop and mobile devices.
+
 
 ### 2. [Antivirus Deployment System](https://github.com/dristanta-silwal/antivirus-deployment)  
 A machine-learning-powered system for predicting virus transmission dynamics and determining optimal antivirus deployment locations. Utilizes the **SEIR epidemiological framework** with **Python** for visualization.
@@ -53,7 +62,10 @@ A machine-learning-powered system for predicting virus transmission dynamics and
 ### 3. [Job Tracker](https://github.com/dristanta-silwal/job-tracker)  
 A web app to help job seekers organize their job applications, interviews, and progress using **Django** and **Bootstrap**.
 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff) 
+![Status](https://img.shields.io/badge/Status-Running-brightgreen)
+
 
 > 🔹 **Key Features**:  
 > - Tracks job application statuses  
@@ -62,17 +74,19 @@ A web app to help job seekers organize their job applications, interviews, and p
 > - Email reminders for application follow-ups
 
 ---
+<!--
 
 Check out more projects on my [GitHub profile](https://github.com/dristanta-silwal?tab=repositories)!
 
 
 ---
 
-## 📈 GitHub Stats
+ ## 📈 GitHub Stats
 
 ![Dristanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dristanta-silwal&show_icons=true&theme=radical&border_color=d8387c)
 
 ---
+-->
 
 ## 📚 Blog & Portfolio
 
@@ -83,7 +97,7 @@ Check out more projects on my [GitHub profile](https://github.com/dristanta-silw
 
 ## 🤝 Contributions
 
-Contributions, issues, and feature requests are always welcome! Feel free to check the [issues page](https://github.com/dristanta-silwal/antivirus-deployment/issues).
+Contributions, issues, and feature requests are always welcome! Feel free to check the [issues page](https://github.com/dristanta-silwal/dristanta-silwal/issues).
 
 ---
 
@@ -97,5 +111,5 @@ Contributions, issues, and feature requests are always welcome! Feel free to che
 
 ## 🎯 Fun Facts
 - I like to bike, swim, and go to gym.
-- When I'm not coding, you see me playing games.
+- When I'm not coding, you see me playing video games, chess, and sleeping.
 
